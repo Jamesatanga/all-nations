@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.news-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.news-card img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 6px;
+}
+
+.news-card h2 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
